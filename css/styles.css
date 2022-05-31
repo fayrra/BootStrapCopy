@@ -1,0 +1,32 @@
+.customRow
+{
+    
+    height: 400px;
+}
+.customRow2
+{
+    /*background-color:aliceblue;*/
+    height: 400px;
+}
+.modal
+{
+    overflow: hidden;
+}
+.modal-dialog
+{
+    margin-right: 50;
+    margin-left: 50;
+}
+.modal-header
+{      /* not necessary but imo important for user */
+    cursor: move;
+}
+
+#spinner 
+{ visibility:hidden; } 
+
+#theme
+{
+    background-color: aquamarine;
+}
+
